@@ -1,0 +1,57 @@
+
+#fotoDeEntrada{
+    width: 600px;
+}
+body{
+    background-color: rgb(120, 110, 110);
+} #logo{
+    position: relative;
+    width: 100px;
+} #nomeprovisório{
+    position: absolute;
+    top: 20px;
+    left: 120px;
+    
+} 
+.navbarItens{
+    background-color: rgba(255, 255, 255, 0.087);
+    display: flex;
+    border-radius: 100px;
+} .navbarItens li{
+    position: relative;
+    list-style-type: none;
+    padding-right: 35px;
+    left: 60px;
+    top: 25px;
+    text-transform: uppercase;
+    
+} .navbarItens a, .navbarItens2 a{
+    text-decoration: none;
+    font-family: cursive;
+    color: aliceblue;
+}
+.navbarItens2{
+    display: flex;
+}
+.navbarItens2 li{
+    position: relative;
+    top: -69px;
+    left: 1200px;
+    text-decoration: none;
+text-transform: uppercase;
+padding-right: 85px;
+list-style-type: none;
+}
+.navbarItens li :hover{
+    border-bottom: 2px solid rgb(50, 69, 50);
+  
+    color: rgb(41, 45, 45);
+}   #fundoCadastro{
+    position: absolute;
+    top: 22px;
+    right: 70px;
+    width: 150px;
+    height: 68px;
+    border-radius: 80px;
+    background-color: blueviolet;
+}
