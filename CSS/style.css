@@ -46,12 +46,13 @@ list-style-type: none;
     border-bottom: 2px solid rgb(50, 69, 50);
   
     color: rgb(41, 45, 45);
-}   #fundoCadastro{
-    position: absolute;
-    top: 22px;
-    right: 70px;
-    width: 150px;
-    height: 68px;
-    border-radius: 80px;
-    background-color: blueviolet;
+
+} .carousel-inner{
+    width: 1400px;
+    border-radius: 50px;
+    
+}
+
+#cadastro{
+    border: 2px solid;
 }
